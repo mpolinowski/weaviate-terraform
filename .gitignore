@@ -1,0 +1,9 @@
+.terraform.lock.hcl
+terraform.tfstate
+.terraform
+data/raft
+*.backup
+*.db
+*.hierarchy
+*.state
+*.flag
